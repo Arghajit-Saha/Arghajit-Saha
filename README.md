@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Arghajit-Saha) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arghajitsaha8@gmail.com) 
 
-# Programming Platforms:
+# 👨‍💻 Programming Platforms:
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23323330.svg?style=for-the-badge&logo=codeforces&logoColor=yellow)](https://codeforces.com/profile/Arghajit)
 [![CodeChef](https://img.shields.io/badge/CodeChef-EED6C4.svg?style=for-the-badge&logo=codechef&logoColor=4A2511)](https://www.codechef.com/users/blest_lice_65/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-5C5470.svg?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/arghajitt/)
