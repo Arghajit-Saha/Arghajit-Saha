@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **blogdown**
 
-- 🌱 I’m currently learning **Django Framework**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **arghajitsaha8@gmail.com**
 
