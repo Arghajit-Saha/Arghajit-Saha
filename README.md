@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghajit-saha&label=Profile%20views&color=0e75b6&style=flat" alt="arghajit-saha" /> </p>
 
-- 🔭 I’m currently working on **blogdown**
+- 🔭 I’m currently working on **Attendance Tracker**
 
 - 🌱 I’m currently learning **React.js**
 
