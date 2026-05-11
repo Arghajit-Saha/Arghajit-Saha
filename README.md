@@ -22,7 +22,7 @@
 
 Hello! I'm a **Computer Science undergraduate** at the **National Institute of Technology, Durgapur**. I am passionate about solving algorithmic problems and building web applications.
 
-- Currently learning on **RAG System**.
+- Currently learning on **dist-exec (Distributed Execution System)**.
 - Active in **Competitive Programming**.
 - Reach me at **arghajitsaha8@gmail.com**.
 
