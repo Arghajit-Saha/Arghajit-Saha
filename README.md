@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Arghajit Saha! 👋</h1>
-  <h3 align="center">CS Undergrad @ NIT Durgapur | Competitive Programmer</h3>
+  <h3 align="center">CS Undergrad @ NIT Durgapur | Competitive Programmer | MERN stack developer</h3>
 </div>
 
 
@@ -22,7 +22,7 @@
 
 Hello! I'm a **Computer Science undergraduate** at the **National Institute of Technology, Durgapur**. I am passionate about solving algorithmic problems and building web applications.
 
-- Currently learning on **dist-exec (Distributed Execution System)**.
+- Currently learning on **<a href="https://github.com/Arghajit-Saha/resume-analyzer/">resume analyser</a>**.
 - Active in **Competitive Programming**.
 - Reach me at **arghajitsaha8@gmail.com**.
 
