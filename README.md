@@ -22,7 +22,7 @@
 
 Hello! I'm a **Computer Science undergraduate** at the **National Institute of Technology, Durgapur**. I am passionate about solving algorithmic problems and building web applications.
 
-- Currently learning on **<a href="https://github.com/Arghajit-Saha/resume-analyzer/">resume analyser</a>**.
+- Currently working on **<a href="https://github.com/Arghajit-Saha/resume-analyzer/">resume analyser</a>**.
 - Active in **Competitive Programming**.
 - Reach me at **arghajitsaha8@gmail.com**.
 
