@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1158C7,100:1F6FEB&height=220&section=header&text=Arghajit%20Saha&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Undergrad%20%40%20NIT%20Durgapur&descSize=20&descAlignY=62&descAlign=50&descColor=58A6FF" alt="Arghajit Saha Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1158C7,100:1F6FEB&height=220&section=header&text=Arghajit%20Saha&fontSize=68&fontColor=ffffff&font=Poppins&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Undergrad%20%40%20NIT%20Durgapur&descSize=20&descAlignY=62&descAlign=50&descColor=58A6FF" alt="Arghajit Saha Header Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -39,7 +39,7 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="55%" valign="top">
+    <td width="40%" valign="top">
       <p>
         Hi! I am a <b>Computer Science student</b> at <b>NIT Durgapur</b>. I love coding, building web applications, and practicing competitive programming.
       </p>
@@ -53,11 +53,40 @@
         &bull; <b>Competitive Programming:</b> Regularly solving algorithmic problems and participating in contests on Codeforces, CodeChef, and LeetCode.
       </p>
     </td>
-    <td width="45%" valign="top" align="center">
-      <br/>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Arghajit-Saha&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=3&column=2" alt="GitHub Trophies" />
-      </a>
+    <td width="60%" valign="top" align="center">
+      <table width="98%" border="0" cellspacing="0" cellpadding="0" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
+        <tr>
+          <td style="background-color: #161B22; padding: 8px 12px; border-bottom: 1px solid #30363D; border-radius: 8px 8px 0 0;" align="left">
+            &nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;&nbsp;<b style="color: #8B949E; font-family: monospace; font-size: 12px;">argha@fedora:~ (zsh)</b>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 12px; font-family: monospace; color: #C9D1D9;" align="left">
+            <pre style="font-family: 'JetBrains Mono', monospace; font-size: 9.5px; line-height: 1.35; color: #C9D1D9; background: transparent; border: none; margin: 0; white-space: pre; overflow-x: auto;">
+argha@fedora:~$ fastfetch
+             .',;::::;,'.                 <b><font color="#58A6FF">argha@fedora</font></b>
+         .';:cccccccccccc:;,.             ------------
+      .;cccccccccccccccccccccc;.          <b><font color="#58A6FF">OS:</font></b> Fedora Linux 43 x86_64
+    .:cccccccccccccccccccccccccc:.        <b><font color="#58A6FF">Kernel:</font></b> Linux 7.0.10-101.fc43
+  .;ccccccccccccc;.:dddl:.;ccccccc;.      <b><font color="#58A6FF">Packages:</font></b> 2625 (rpm), 24 (flatpak)
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.     <b><font color="#58A6FF">Shell:</font></b> zsh 5.9
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    <b><font color="#58A6FF">DE:</font></b> GNOME 49.6
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,    <b><font color="#58A6FF">WM:</font></b> Mutter (Wayland)
+:cccccccccccccc;MMM.;cccccccccccccccc:    <b><font color="#58A6FF">WM Theme:</font></b> Adwaita
+:ccccccc;oxOOOo;MMM000k.;cccccccccccc:    <b><font color="#58A6FF">Theme:</font></b> Adwaita [GTK2/3/4]
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    <b><font color="#58A6FF">Icons:</font></b> Adwaita [GTK2/3/4]
+ccccc;XMO';cccc;MMM.;cccccccccccccccc'    <b><font color="#58A6FF">Font:</font></b> Adwaita Sans (11pt)
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     <b><font color="#58A6FF">Cursor:</font></b> Bibata-Modern-Ice
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;      <b><font color="#58A6FF">Terminal:</font></b> GNOME Terminal
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       <b><font color="#58A6FF">Terminal Font:</font></b> JetBrains Mono
+cccccccc;.:odl:.;cccccccccccccc:,.        
+ccccccccccccccccccccccccccccc:'.          
+:ccccccccccccccccccccccc:;,..             
+ ':cccccccccccccccc::;,.                  
+</pre>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -70,10 +99,10 @@
 
 <div align="center">
   <a href="https://github.com/Arghajit-Saha/athena">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arghajit-Saha&repo=athena&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" alt="Athena Repo Card" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Arghajit-Saha&repo=athena&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" alt="Athena Repo Card" width="48%" />
   </a>
   <a href="https://github.com/Arghajit-Saha/task_bucket">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arghajit-Saha&repo=task_bucket&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" alt="Task Bucket Repo Card" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Arghajit-Saha&repo=task_bucket&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" alt="Task Bucket Repo Card" width="48%" />
   </a>
 </div>
 
@@ -81,10 +110,10 @@
 
 <div align="center">
   <a href="https://github.com/Arghajit-Saha/rag-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arghajit-Saha&repo=rag-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" alt="RAG System Repo Card" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Arghajit-Saha&repo=rag-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" alt="RAG System Repo Card" width="48%" />
   </a>
   <a href="https://github.com/Arghajit-Saha/attendance-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arghajit-Saha&repo=attendance-tracker&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" alt="Attendance Tracker Repo Card" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Arghajit-Saha&repo=attendance-tracker&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" alt="Attendance Tracker Repo Card" width="48%" />
   </a>
 </div>
 
@@ -145,27 +174,27 @@
 
 <hr color="#21262D" size="1" />
 
-## Competitive Programming
+## DSA & Competitive Programming
 
-<div align="center">
-  <a href="https://leetcode.com/u/arghajitt/">
-    <img src="https://leetcard.jacoblin.cool/arghajitt?theme=dark&font=Space%20Grotesk&hide=extension" alt="LeetCode Stats Card" width="48%" />
-  </a>
-  <a href="https://codeforces.com/profile/Arghajit">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Arghajit&theme=dark" alt="Codeforces Stats Card" width="48%" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.codechef.com/users/blest_lice_65/">
-    <img src="https://codechef-readme-stats.vercel.app/api?username=blest_lice_65&theme=dark" alt="CodeChef Stats Card" width="48%" />
-  </a>
-  <a href="https://atcoder.jp/users/Arghajit">
-    <img src="https://atcoder-readme-stats.vercel.app/api?username=Arghajit&theme=dark" alt="AtCoder Stats Card" width="48%" />
-  </a>
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="33%" valign="middle" align="center">
+      <a href="https://leetcode.com/u/arghajitt/">
+        <img src="https://leetcard.jacoblin.cool/arghajitt?theme=dark&font=Space%20Grotesk&ext=heatmap" alt="LeetCode Activity & Heatmap" height="195" />
+      </a>
+    </td>
+    <td width="33%" valign="middle" align="center">
+      <a href="https://codeforces.com/profile/Arghajit">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Arghajit&theme=dark" alt="Codeforces Stats Card" height="195" />
+      </a>
+    </td>
+    <td width="33%" valign="middle" align="center">
+      <a href="https://www.codechef.com/users/blest_lice_65/">
+        <img src="https://codechef-readme-stats.onrender.com/blest_lice_65?v=1" alt="CodeChef Stats Card" height="195" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -174,14 +203,18 @@
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arghajit-Saha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Profile Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arghajit-Saha&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghajit-Saha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
+    <tr>
+      <td width="55%" valign="middle" align="center" style="padding: 15px;">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Arghajit-Saha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Profile Stats" width="98%" />
+        <br/><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arghajit-Saha&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats" width="98%" />
+      </td>
+      <td width="45%" valign="middle" align="center" style="padding: 15px; border-left: 1px solid #21262D;">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arghajit-Saha&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="98%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
